@@ -16,6 +16,7 @@ return {
     "catppuccin/nvim",
     name = "catppuccin",
   },
+  -- Other
   {
     "christoomey/vim-tmux-navigator",
     cmd = {
