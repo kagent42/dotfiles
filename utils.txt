@@ -1,0 +1,10 @@
+# Install these packages:
+# Arch Repository Packages:
+git openssh lolcat bat bat-extras clang llvm rustup python-pip lm_sensors psutils python-psutil neofetch bashtop htop cmatrix nyancat zsh tmux powerline lsd neovim python-neovim zsh-autosuggestions zsh-syntax-highlighting lazygit
+# Arch User Repository Packages:
+bash-pipes zsh-theme-powerlevel10k-git
+# Git/no repo
+sh -c "$(curl -fsSL http://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+# Remember to copy your dotfiles
+cd ~/.config && git clone git@github.com:kagent42/dotfiles && cd dotfiles
