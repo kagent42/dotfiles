@@ -112,6 +112,7 @@ source $ZSH/oh-my-zsh.sh
 alias ls="lsd"
 alias nvimconfig="nvim ~/.config/nvim/"
 alias vi="nvim"
+alias cat="bat"
 
 # Environment variables
 export EDITOR="nvim"
