@@ -1,0 +1,5 @@
+{
+    "diagnostics.globals": [
+        "nvim_keymap_set"
+    ]
+}
