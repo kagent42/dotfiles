@@ -13,3 +13,7 @@ vim.g.lazyvim_python_lsp = "basedpyright"
 
 -- Text wrapping for virtual text
 vim.diagnostic.open_float()
+
+vim.o.tabstop = 8
+vim.o.shiftwidth = 4
+vim.o.expandtab = true

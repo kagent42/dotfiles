@@ -21,3 +21,5 @@
 --
 
 vim.keymap.set("n", "<leader>bf", "<Cmd>Telescope buffers<CR>")
+
+vim.keymap.set("i", "<CR>", "o")
