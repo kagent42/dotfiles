@@ -1,0 +1,541 @@
+test
+t
+test
+test `My files`
+help
+man
+man man
+dhci
+ghci
+h
+help
+ls
+│  0 │ Calibre Library  │ dir     │  1.3 KiB │ 4 days ago   │<\n>
+ls | id
+ls | id 1
+id
+ls
+cd .config/
+lfs
+ls
+ls | sort 
+ls | sort --reverse
+ls | search
+ls | sortby 
+ls | sort
+ls | sort BraveSoftware/
+yay -S starship
+nvim nushell/config.nu
+nvim
+nvim ~/projects/haskell/get-programming-with-haskell/lesson-4/lesson4.hs
+$nu.plugin-path
+cd $nu.plugin-path
+plugin add starship
+nvim nushell/config.nu
+source nushell/config.nu
+nvim nushell/config.nu
+nvim starship.toml
+starship preset jetpack -o ~/.config/starship.toml
+test
+nvim starship.toml
+tesawfwafs
+nvim starship.toml
+nvim starship.tomlarstawf
+ariosentoar
+nvim starship.toml
+test
+nvim starship.toml
+starship preset pure-preset -o ~/.config/starship.toml
+test
+help
+toiaersntoiaenwf
+cd dotfiles/
+main
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+cd ..
+arsoietn
+nvim starship.toml
+nvim nushell/config.nu
+source 
+source nushell/config.nu
+nvim starship.toml
+nvim nushell/config.nu
+source nushell/config.nu
+nvim nushell/config.nu
+nvim starship.toml
+starship preset jetpack -o ~/.config/starship.toml
+nvim starship.toml
+starship prompt --help
+starship prompt --right
+cd .config/
+ls
+nvim nushell/config.nu
+<\n><\n>
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+nvim starship.toml
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+nvim starship.toml
+cd $nu.config-path
+$nu.config-path
+nvim $nu.default-config-dir
+cd $nu.default-config-dir
+ls
+nvim env.nu
+nvim config.nu
+source nushell/config.nu
+source config.nu
+nvim config.nu
+nvim env.nu
+nvim ~/.cache/starship/init.nu
+cd $XDG_CONFIG
+cd ..
+nvim starship.toml
+aoiersntoiar
+cd dotfiles/
+nvim README.md
+nvim starship.toml
+cd ..
+cd dotfiles/
+cd ..
+nvim starship.toml
+sudo
+sudo pacman -Syu
+nvim starship.toml
+nvim nushell/config.nu
+nvim nushell/env.nu
+source config.nu
+nvim starship.toml
+cd dotfiles/
+lazygit
+cd ..
+nvim starship.toml
+wfnwqfoitn
+nvim starship.toml
+cd dotfiles/
+lazygit
+git pull
+yay -S carapace-bin
+cd ..
+ls
+nvim nushell
+nvim
+nvim nushell/env.nu
+nvim nushell/config.nu
+source config.nu
+source nushell/config.nu
+nvim nushell/config.nu
+source nushell/config.nu
+source $nu.config-path
+nvim $nu.config-path
+nvim $nu.env-path
+i
+if
+source $nu.config-path
+nvim kitty
+$HOME
+ls
+la
+ls -a
+nvim $env.config
+nvim $nu.config-path
+nvim $nu.env-path
+$env.EDITOR
+$env.VISUAL
+nvim $nu.env-path
+systemctl status -.mount 
+systemctl status dbus.socket 
+LaTeX 
+$env.USER
+$env.SHELL
+usermod -s /bin/nu kagent
+sudo usermod -s /bin/nu kagent
+config env
+nvim .config/hypr/hyprland.conf 
+sddm
+sudo nvim /usr/lib/sddm/sddm-helper-start-wayland
+sudo nvim /usr/lib/sddm/sddm.conf.d/
+nvim /etc/passwd
+time
+date
+date humanize 
+date humanize `Calibre Library/`
+strings
+lt
+ls
+sd `My files`
+cd `My files`
+la
+ls
+config env 
+ls -l
+ls -a
+ls -l
+ls -la
+ls -la | documents
+ls -la | columnts
+ls -la | columns
+config nu
+la
+source $nu.config-path
+la
+cd .steampath
+cd ..
+cd kagent/.config/
+cd BraveSoftware/
+cd
+pwd
+cat
+cat "Calibre Library/"
+cat "My files" 
+cat kcd_launcher.log 
+which
+la /etc/shells
+cat /etc/shells
+$nu.config-path
+$nu.pid
+$init
+$current
+config env
+source $nu.config-path
+source $nu.env-path
+config env
+|<\n>
+ps
+ps | where cpu > 5
+ps | sum cpu
+help commands 
+ps | select cpu | math sum
+watch ps | select cpu | math sum
+watch
+watch --help
+help commands
+help commands | where name = each | first
+help commands | where name == each | first
+help commands | where name == math | first
+help commands | where name == "math sum"
+help commands | where name == "math sum" | columns
+into binary 
+"hello" | into binary
+"hello" | into bits 
+"hello" | into bool 
+"what" | into cell-path 
+"what" | into datetime 
+open --raw .gitconfig
+open .gitconfig
+open .bash_history
+cd projects/haskell/get-programming-with-haskell/
+cd ..
+ls
+cd projects/haskell/
+ls
+nvim
+mkdir get-programming-with-haskell/lesson-6
+mv lesson6.hs get-programming-with-haskell/lesson-6/
+cd get-programming-with-haskell/lesson-6/
+ghci
+ls
+cd get-programming-with-haskell/lesson-6
+cd projects/haskell
+nvim .config/tmux/tmux.conf 
+cd ..
+nvim .config/tmux/tmux.conf 
+cd 
+nvim .config/tmux/tmux.conf 
+cd ..
+pwd
+ls
+nvim .config/tmux/tmux.conf 
+cd
+nvim .config/tmux/tmux.conf 
+cd .config/
+pwd
+nvim .config/tmux/tmux.conf 
+cd ..
+nvim .config/tmux/tmux.conf 
+cd /
+cd
+cd $env.config
+$env.config
+cd projects/haskell/
+cd get-programming-with-haskell/lesson-6
+cd projects/haskell/
+cd projects/haskell/get-programming-with-haskell/lesson-6/
+nvim
+ps | select cpu | math sum
+ps | select cpu | math avg
+ps | select cpu | math sum | select
+ps | select cpu | math sum | select cpu
+ps | select cpu | math sum | select cpu.0
+ps | select cpu | math sum | select 0
+ps | select cpu | math sum | select 0.cpu
+ps | select cpu | math sum | select
+ps | select cpu | math sum | ifrst
+first
+ps | select cpu | math sum | first
+ps | select cpu | math sum | get
+ps | select cpu | math sum | get cpu
+ps | select cpu | reduce {|it, acc| ($it + $acc) / 100}
+ps | select cpu | reduce {|it, acc| ($it + $acc)}
+ps | select cpu | reduce {|it, acc|$it + $acc}
+> [ 1 2 3 4 ] | reduce {|it, acc| $it + $acc }<\n>10
+> [ 1 2 3 4 ] | reduce {|it, acc| $it + $acc }
+[ 1 2 3 4 ] | reduce {|it, acc| $it + $acc }
+ps | select cpu | reduce {|it, acc|$it + $acc}
+ps | select cpu | into int | reduce {|it, acc|$it + $acc}
+ps | select cpu | get cpu | reduce {|it, acc|$it + $acc}
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc) / 100}
+ps | select cpu | get cpu | (reduce {|it, acc|($it + $acc)}) / 100
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)} | / 100
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)} | get
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)} | get stdout
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)} / 100
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)} | table
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)} | <\n>
+ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}
+s = ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}
+let s = ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}
+s / 100
+$s / 100
+(let s = ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}) / 100
+(let s = ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)})/100
+(let s = ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}) / 10
+(let s = ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}) / 100
+(ps | select cpu | get cpu | reduce {|it, acc|($it + $acc)}) / 100
+nvim get-programming-with-haskell/lesson-6/lesson6.hs 
+ls .local/share/
+ls .local/share/ | search ghcup
+ls .local/share/ | get ghcup
+ls .local/share/ | find ghcup
+ls .local/share/ | find ghcup | get name
+ls .local/share/ | find ghcup | get name | into path
+ls .local/share/ | find ghcup | get name | into cell-path 
+ls .local/share/ | find ghcup | get name | into cell-path | cd
+ls .local/share/ | find ghcup | get name | into string | cd
+ls
+ls .local/share/ | find ghcup | get name | into string | cd
+ls .local/share/ | find ghcup | get name | into string | cd s
+cd .local/share/ghcup/
+ls
+find
+find doc
+ls db
+ls db/*
+ls db/ghc
+ls db/ghc/9.10.1
+ghcup
+ghcup tui
+ghcup config
+nvim .zshrc
+cd 
+nvim zshrc
+nvim .config/nushell/env.nu 
+source $nu.env-path
+$env.GHCUP_USE_XDG_DIRS
+ghcup tui
+cd projects/haskell/
+nvim
+cd projects/haskell/get-programming-with-haskell/lesson-6/
+cd projects
+cd
+cd projects/
+mkdir advent-of-code
+cd advent-of-code/
+mkdir 2015
+nvim day1.hs
+mkdir data
+save "((((()(()(((((((()))(((()((((()())(())()(((()((((((()((()(()(((()(()((())))()((()()())))))))))()((((((())((()))(((((()(((((((((()()))((()(())()((())((()(()))((()))()))()(((((()(((()()))()())((()((((())()())()((((())()(()(()(((()(())(()(())(((((((())()()(((())(()(()(()(())))(()((((())((()))(((()(()()(((((()()(()(((()(((((())()))()((()(()))()((()((((())((((())(()(((())()()(()()()()()(())((((())((())(()()))()((((())))((((()())()((((())((()())((())(())(((((()((((()(((()((((())(()(((()()))()))((((((()((())()())))(((()(()))(()()(()(((()(()))((()()()())((()()()(((())())()())())())((()))(()(()))(((((()(()(())((()(())(())()((((()())()))((((())(())((())())((((()(((())(())((()()((((()((((((()(())()()(()(()()((((()))(())()())()))(())))(())))())()()(())(()))()((()(()(())()()))(()())))))(()))(()()))(())(((((()(()(()()((())()())))))((())())((())(()(())((()))(())(((()((((((((()()()(()))()()(((()))()((()()(())(())())()(()(())))(((((()(())(())(()))))())()))(()))()(()(((((((()((((())))())())())())()((((((((((((((()()((((((()()()())())()())())())(())(())))())((()())((()(()))))))()))))))))))))))))())((())((())()()))))))(((()((()(()()))((())(()()))()()())))(())))))))(()(((())))())()())))()()(())()))()(()))())((()()))))(()))))()))(()()(())))))))()(((()))))()(()))(())())))))()))((()))((()))())(())))))))))((((())()))()))()))())(())()()(())))())))(()())()))((()()(())))(())((((((()(())((()(((()(()()(())))()))))))()))()(()((()))()(()))(()(((())((((())())(())(()))))))))())))))))())())))))())))))()()(((())()(()))))))))())))))(())()()()))()))()))(()(())()()())())))))))())()(()(()))))()()()))))())(()))))()()))))()())))))(((())()()))(()))))))))))()()))))()()()))))(()())())()()())()(()))))()(()))(())))))))(((((())(())())()()))()()))(())))))()(()))))(())(()()))()())()))()))()))()))))())()()))())())))(()))(()))))))())()(((())()))))))))()))()())))())))())))()))))))))))()()))(()()))))))(())()(()))))())(()))))(()))))(()())))))())())()()))))())()))))))))(()))))()))))))()(()())))))))()))())))())))())))())))))))())(()()))))))(()())())))()())()))))))))))))))())))()(())))()))())()()(())(()()))(())))())()())(()(()(()))))())))))))))))())(()))()))()))))(())()())()())))))))))))()()))))))))))))())())))))(()())))))))))))())(())))()))))))))())())(()))()))(())))()))()()(())()))))))()((((())()))())())))))()))()))))((()())()))))())))(())))))))))))))))))()))))()()())()))()()))))())()))((()())))())))(()))(()())))))))()))()))))(())))))))(())))))())()()(()))())()))()()))))())()()))))())()))())))))))(()))))()())()))))))))(()))())))(()))()))))(())()))())())(())())())))))))((((())))))()))()))()())()(())))()))()))()())(()())()()(()())()))))())())))))(()))()))))())(()()(())))))(())()()((())())))))(())(())))))))())))))))))()(())))))))()())())())()(()))))))))(()))))))))())()()))()(()))))))()))))))())))))))(())))()()(())()())))))(((())))()((())()))())))(()()))())(())())))()(((()())))))()(()()())))()()(()()(()()))())()(()()()))())()()))()())(()))))())))))())))(())()()))))(()))))(())(()))(())))))()()))()))))())()))()()(())())))((()))())()))))))()()))))((()(()))))()()))))))())))))())(()((()())))))))))))()())())))()))(()))))))(()))(())()())))(()))))))))())()()()()))))(()())))))))((())))()))(()))(())(())()())()))))))))(())))())))(()))()()))(()()))(()))())))()(())))())((()((()(())))((())))()))))((((())())()())))(())))()))))))())(()()((())))())()(()())))))(()())()))())))))))((())())))))))(()(()))())()()(()()(((()(((()())))))()))))))()(())(()()((()()(())()()))())()())()))()())())())))))))(((())))))))()()))))))(((())()))(()()))(()()))))(()(()()((((())()())((()()))))(()(())))))()((()()()())()()((()((()()))(()))(((()()()))(((())))()(((())()))))))((()(())())))(()())(((((()(()))(()((()))(()())()))))(()(()))()(()))(())(((())(()()))))()()))(((()))))(()()()()))())))((()()()(())()))()))))()()))()))))))((((((()()()))))())((()()(((()))))(()(())(()()())())())))()(((()()))(())((())))(()))(()()()())((())())())(()))))()))()((()(())()(()()(())(()))(())()))(())(()))))(())(())())(()()(()((()()((())))((()))()((())))(((()()()()((((()))(()()))()()()(((())((())())(()()(()()()))()((())(())()))())(((()()(())))()((()()())()())(()(())())(((())(())())((())(())()(((()()))(())))((())(()())())(())((()()()((((((())))((()(((((())()))()))(())(()()))()))(())()()))(())((()()())()()(()))())()((())))()((()()())((((()())((())())())((()((()))()))((())((()()(()((()()(((())(()()))))((()((())()(((())(()((())())((())(()((((((())())()(()())()(())(((())((((((()(())(()((()()()((()()(()()()())))()()(((((()()))()((((((()))()(()(()(()(((()())((()))())()((()))(())))()))()()))())()()))())((((())(()(()))(((((((())(((()(((((()(((()()((((())(((())())))(()()()(()(()))()))((((((()))((()(((()(())((()((((()((((((())(((((())))(((()(()))))(((()(((())()((())(()((()))(((()()(((())((((()(()(((((()))(((()(((((((()(()()()(()(()(()()())(())(((((()(())())()())(()(()(()))()(()()()())(()()(()((()))()((())())()(()))((())(()))()(()))()(((()(()(()((((((()()()()())()(((((()()(((()()()((()(((((()))((((((((()()()(((((()))))))(()()()(())(()))(()()))))(())()))(((((()(((((()()(()(()())(((()))((((()((()(()(()((()(()((())))()(((()((()))((()))(((((((((()((()((()(())))()((((()((()()))((())(((()(((((()()(()(()()((()(()()()(((((((())())()())))))((((()()(()))()))(()((())()(()(((((((((()()(((()(()())(()((()())((())())((((()(((()(((()((((()((()((((()(()((((((())((((((((((((()()(()()((((((((((((((()((()()))()((((((((((((())((((()(()())((()(()(()))()(((((()()(((()()))()())(())((()(((((()((())(((((()((()(((((()))()()((((())()((((())(((((((((()(())(()(())))())(()((())(((())(())(())())(()(()(())()()((()((())()(((()(((((()(())))()(((()((())))((()()()(((()(((()((()(()(())(()((()())(()(()(((()(((((((((())(()((((()()))(()((((()()()()(((()((((((((()(()()((((((()(()()(()((()((((((((((()()(((((((()())(())))(((()()))(((((()((()()())(()()((((())((()((((()))))(())((()(()()(((()(()(((()((((()(((((()))())())(()((())()))(((()())((())((())((((()((()((((((())(()((((()()))((((((())()(()))((()(((())((((((((((()()(((((()(((((()((()()()((((())))(()))()((()(())()()((()((((((((((()((())(())(((((()(()(()()))((((()((((()()((()(((()(((((((((()(()((()((()))((((((()(((())()()((()(((((((()())))()()(()((()((()()(((()(()()()()((((()((())((((()(((((((((()(((()()(((()(()(((()(((()((())()(()((()(()(()(()))()(((()))(()((((()((())((((())((((((())(()))(()((((())((()(()((((((((()()((((((()(()(()()()(())((()((()()(((()(((((((()()((()(((((((()))(((((()(((()(()()()(()(((()((()()((())(()(((((((((()(()((()((((((()()((())()))(((((()((())()())()(((((((((((()))((((()()()()())(()()(()(()()))()))(()))(()(((()()))())(()(()))()()((())(()())()())()(()))()))(()()(()((((((())((()(((((((((((()(())()((()(()((()((()(()((()((((((((((()()())((())()(())))((())()())()(((((()(()())((((()((()(())(()))(((())()((()))(((((())(()))()()(()))(((())((((()((((()(())))(((((((()))))())()())(())((())()(()()((()(()))()(()()(()()((()())((())((()()))((((()))()()))(()()(())()()(((((()(())((()((((()))()))(()())())(((()()(()()))(())))))(()))((())(((((()((((()))()((((()))()((())(((())))(((()())))((()(()()((<\n><\n>"
+save "((((()(()(((((((()))(((()((((()())(())()(((()((((((()((()(()(((()(()((())))()((()()())))))))))()((((((())((()))(((((()(((((((((()()))((()(())()((())((()(()))((()))()))()(((((()(((()()))()())((()((((())()())()((((())()(()(()(((()(())(()(())(((((((())()()(((())(()(()(()(())))(()((((())((()))(((()(()()(((((()()(()(((()(((((())()))()((()(()))()((()((((())((((())(()(((())()()(()()()()()(())((((())((())(()()))()((((())))((((()())()((((())((()())((())(())(((((()((((()(((()((((())(()(((()()))()))((((((()((())()())))(((()(()))(()()(()(((()(()))((()()()())((()()()(((())())()())())())((()))(()(()))(((((()(()(())((()(())(())()((((()())()))((((())(())((())())((((()(((())(())((()()((((()((((((()(())()()(()(()()((((()))(())()())()))(())))(())))())()()(())(()))()((()(()(())()()))(()())))))(()))(()()))(())(((((()(()(()()((())()())))))((())())((())(()(())((()))(())(((()((((((((()()()(()))()()(((()))()((()()(())(())())()(()(())))(((((()(())(())(()))))())()))(()))()(()(((((((()((((())))())())())())()((((((((((((((()()((((((()()()())())()())())())(())(())))())((()())((()(()))))))()))))))))))))))))())((())((())()()))))))(((()((()(()()))((())(()()))()()())))(())))))))(()(((())))())()())))()()(())()))()(()))())((()()))))(()))))()))(()()(())))))))()(((()))))()(()))(())())))))()))((()))((()))())(())))))))))((((())()))()))()))())(())()()(())))())))(()())()))((()()(())))(())((((((()(())((()(((()(()()(())))()))))))()))()(()((()))()(()))(()(((())((((())())(())(()))))))))())))))))())())))))())))))()()(((())()(()))))))))())))))(())()()()))()))()))(()(())()()())())))))))())()(()(()))))()()()))))())(()))))()()))))()())))))(((())()()))(()))))))))))()()))))()()()))))(()())())()()())()(()))))()(()))(())))))))(((((())(())())()()))()()))(())))))()(()))))(())(()()))()())()))()))()))()))))())()()))())())))(()))(()))))))())()(((())()))))))))()))()())))())))())))()))))))))))()()))(()()))))))(())()(()))))())(()))))(()))))(()())))))())())()()))))())()))))))))(()))))()))))))()(()())))))))()))())))())))())))())))))))())(()()))))))(()())())))()())()))))))))))))))())))()(())))()))())()()(())(()()))(())))())()())(()(()(()))))())))))))))))())(()))()))()))))(())()())()())))))))))))()()))))))))))))())())))))(()())))))))))))())(())))()))))))))())())(()))()))(())))()))()()(())()))))))()((((())()))())())))))()))()))))((()())()))))())))(())))))))))))))))))()))))()()())()))()()))))())()))((()())))())))(()))(()())))))))()))()))))(())))))))(())))))())()()(()))())()))()()))))())()()))))())()))())))))))(()))))()())()))))))))(()))())))(()))()))))(())()))())())(())())())))))))((((())))))()))()))()())()(())))()))()))()())(()())()()(()())()))))())())))))(()))()))))())(()()(())))))(())()()((())())))))(())(())))))))())))))))))()(())))))))()())())())()(()))))))))(()))))))))())()()))()(()))))))()))))))())))))))(())))()()(())()())))))(((())))()((())()))())))(()()))())(())())))()(((()())))))()(()()())))()()(()()(()()))())()(()()()))())()()))()())(()))))())))))())))(())()()))))(()))))(())(()))(())))))()()))()))))())()))()()(())())))((()))())()))))))()()))))((()(()))))()()))))))())))))())(()((()())))))))))))()())())))()))(()))))))(()))(())()())))(()))))))))())()()()()))))(()())))))))((())))()))(()))(())(())()())()))))))))(())))())))(()))()()))(()()))(()))())))()(())))())((()((()(())))((())))()))))((((())())()())))(())))()))))))())(()()((())))())()(()())))))(()())()))())))))))((())())))))))(()(()))())()()(()()(((()(((()())))))()))))))()(())(()()((()()(())()()))())()())()))()())())())))))))(((())))))))()()))))))(((())()))(()()))(()()))))(()(()()((((())()())((()()))))(()(())))))()((()()()())()()((()((()()))(()))(((()()()))(((())))()(((())()))))))((()(())())))(()())(((((()(()))(()((()))(()())()))))(()(()))()(()))(())(((())(()()))))()()))(((()))))(()()()()))())))((()()()(())()))()))))()()))()))))))((((((()()()))))())((()()(((()))))(()(())(()()())())())))()(((()()))(())((())))(()))(()()()())((())())())(()))))()))()((()(())()(()()(())(()))(())()))(())(()))))(())(())())(()()(()((()()((())))((()))()((())))(((()()()()((((()))(()()))()()()(((())((())())(()()(()()()))()((())(())()))())(((()()(())))()((()()())()())(()(())())(((())(())())((())(())()(((()()))(())))((())(()())())(())((()()()((((((())))((()(((((())()))()))(())(()()))()))(())()()))(())((()()())()()(()))())()((())))()((()()())((((()())((())())())((()((()))()))((())((()()(()((()()(((())(()()))))((()((())()(((())(()((())())((())(()((((((())())()(()())()(())(((())((((((()(())(()((()()()((()()(()()()())))()()(((((()()))()((((((()))()(()(()(()(((()())((()))())()((()))(())))()))()()))())()()))())((((())(()(()))(((((((())(((()(((((()(((()()((((())(((())())))(()()()(()(()))()))((((((()))((()(((()(())((()((((()((((((())(((((())))(((()(()))))(((()(((())()((())(()((()))(((()()(((())((((()(()(((((()))(((()(((((((()(()()()(()(()(()()())(())(((((()(())())()())(()(()(()))()(()()()())(()()(()((()))()((())())()(()))((())(()))()(()))()(((()(()(()((((((()()()()())()(((((()()(((()()()((()(((((()))((((((((()()()(((((()))))))(()()()(())(()))(()()))))(())()))(((((()(((((()()(()(()())(((()))((((()((()(()(()((()(()((())))()(((()((()))((()))(((((((((()((()((()(())))()((((()((()()))((())(((()(((((()()(()(()()((()(()()()(((((((())())()())))))((((()()(()))()))(()((())()(()(((((((((()()(((()(()())(()((()())((())())((((()(((()(((()((((()((()((((()(()((((((())((((((((((((()()(()()((((((((((((((()((()()))()((((((((((((())((((()(()())((()(()(()))()(((((()()(((()()))()())(())((()(((((()((())(((((()((()(((((()))()()((((())()((((())(((((((((()(())(()(())))())(()((())(((())(())(())())(()(()(())()()((()((())()(((()(((((()(())))()(((()((())))((()()()(((()(((()((()(()(())(()((()())(()(()(((()(((((((((())(()((((()()))(()((((()()()()(((()((((((((()(()()((((((()(()()(()((()((((((((((()()(((((((()())(())))(((()()))(((((()((()()())(()()((((())((()((((()))))(())((()(()()(((()(()(((()((((()(((((()))())())(()((())()))(((()())((())((())((((()((()((((((())(()((((()()))((((((())()(()))((()(((())((((((((((()()(((((()(((((()((()()()((((())))(()))()((()(())()()((()((((((((((()((())(())(((((()(()(()()))((((()((((()()((()(((()(((((((((()(()((()((()))((((((()(((())()()((()(((((((()())))()()(()((()((()()(((()(()()()()((((()((())((((()(((((((((()(((()()(((()(()(((()(((()((())()(()((()(()(()(()))()(((()))(()((((()((())((((())((((((())(()))(()((((())((()(()((((((((()()((((((()(()(()()()(())((()((()()(((()(((((((()()((()(((((((()))(((((()(((()(()()()(()(((()((()()((())(()(((((((((()(()((()((((((()()((())()))(((((()((())()())()(((((((((((()))((((()()()()())(()()(()(()()))()))(()))(()(((()()))())(()(()))()()((())(()())()())()(()))()))(()()(()((((((())((()(((((((((((()(())()((()(()((()((()(()((()((((((((((()()())((())()(())))((())()())()(((((()(()())((((()((()(())(()))(((())()((()))(((((())(()))()()(()))(((())((((()((((()(())))(((((((()))))())()())(())((())()(()()((()(()))()(()()(()()((()())((())((()()))((((()))()()))(()()(())()()(((((()(())((()((((()))()))(()())())(((()()(()()))(())))))(()))((())(((((()((((()))()((((()))()((())(((())))(((()())))((()(()()(("
+wl-clip
+wl-paste
+wl-paste | save day1.txt
+ls
+mv day1.* 2015
+ls
+mv data 2015
+cd 2015/
+ls
+mv day1.txt data
+ls
+ghci
+cd 
+cd projects/advent-of-code/2015/
+ghc day1.hs
+./day1
+ghc day1.hs
+./day1
+nvim projects/haskell/get-programming-with-haskell/
+cd projects/haskell/get-programming-with-haskell/
+ghc day1.hs
+./day1
+ls
+ghc day1.hs
+./day1
+cd data/
+cat day1.txt 
+cat day1.txt | map day1.txt
+cat day1.txt | each 
+cat day1.txt | each {|x| $x == '('}
+cat day1.txt | each {|x| if $x == '(' {1}}
+cat day1.txt | each {|x| if $x == "(" {1}}
+cat day1.txt | into record 
+cat day1.txt | into bits 
+cat day1.txt | into glob 
+cat day1.txt | into string 
+cat day1.txt | into string | into record 
+cat day1.txt | into string | into value 
+cat day1.txt | get 0
+cat day1.txt | into sqlite 
+cat day1.txt | into string | <\n>
+cat day1.txt | split
+cat day1.txt | split chars
+cat day1.txt | split chars | each {|x| $x == ')'}
+cat day1.txt | split chars | each {|x| $x == ')'} | into int
+cat day1.txt | split chars | each {|x| $x == ')'} | into int | each {|x, y| $x + $y}
+cat day1.txt | split chars | each {|x| $x == ')'} | into record 
+cat day1.txt | split chars | each {|x| $x == ')'} |<\n>
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum
+cargo install polars
+cargo add polars
+cargo install nu
+cargo install nu_plugin_polars
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum
+polars
+rustup
+rustup update
+cargo install polars
+yay -S polars
+pip
+pip install polars
+pacman -S python-polars
+sudo pacman -S python-polars
+yay --noconfirm
+yay -S python-polars
+yay -S python-polars --noconfirm
+polars
+pola
+$nu.plugin-path
+pacman -Qi python-polars 
+find
+find polars
+find /
+find / polars
+search
+get
+find - polars
+find -r polars
+find -r polars /
+plugin add .cargo/
+plugin add .cargo/bin/nu_plugin_polars
+polars
+cd projects/
+ls
+cd advent-of-code/
+ls
+cd 2015/
+cd data/
+nvim ../day1.hs 
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | filter
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | where 0_cumulative_sum == -1
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | get 0_cumulative_sum == -1
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | polars filter-with 
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | polars filter-with {|$x| x == -1}
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | save results.txt
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | polars get 0_cumulative_sum
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | polars contains "-1"
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | polars contains -1
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | polars implode
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df | polars cumulative sum | polars into-nu
+cat day1.txt | split chars | each {|x| if $x == ')' {$x = 1} else {$x = -1}} | polars into-df | polars cumulative sum | polars into-nu
+cat day1.txt | split chars | each {|x| if $x == ')' {$x = 1} else {$x = -1}<\n><\n>}
+cat day1.txt | split chars | each {|x| if $x == ')' {$x = 1} else {$x = -1}}
+cat day1.txt | split chars | each {|x| if $x == ')' {$x = 1}}
+cat day1.txt | split chars | each {|x| if $x == ')'}
+cat day1.txt | split chars | each {|x| $x == ')'}
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df
+cat day1.txt | split chars | each {|x| $x == ')'} | each {|x| if {x == false} {x = -1}}
+cat day1.txt | split chars | each {|x| $x == ')'} | polars into-df
+cat day1.txt | split chars | each {|x| $x == ')'}
+cat day1.txt | split chars | each {|x| $x == ')'} | map
+cat day1.txt | split chars | each {|x| if ($x == ')') <\n>}
+cat day1.txt | split chars | each {|x| if ($x == ')')}
+cat day1.txt | split chars | each {|x| if $x == ')' {1}}
+cat day1.txt | split chars | each {|x| if $x == ')' {1} else {-1}}
+cat day1.txt | split chars | each {|x| if $x == ')' {1} else {-1}} | polars into-df | polars cumulative sum
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | where 0_cumulative_sum == -1
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get id
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get #
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get 
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get index
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get columns
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | columns
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get 0
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get 0 | where 0_cumulative_sum == -1
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get 
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get 0 
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | select 0
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | columns
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | into record 
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | into value 
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | where 0_cumulative_sum == -1 | get index
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | where 0_cumulative_sum == -1 | where index == 0
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | where 0_cumulative_sum == -1
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | ged
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get a
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get b
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get $a
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get 0
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | get 1
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | input list
+cat day1.txt | split chars | each {|x| if $x == '(' {1} else {-1}} | polars into-df | polars cumulative sum | polars into-nu | input list --index
+nvim
+cd ..
+nvim
+shutdown now
+cd .config | nvim
+nvim
+ls
+cd hypr/
+cd Downloads/
+git clone https://github.com/jason9075/rofi-hyprland-keybinds-cheatsheet.git
+cd rofi-hyprland-keybinds-cheatsheet/
+ls
+chmod +x rofi_keybinds.sh 
+./rofi_keybinds.sh
+nvim rofi_keybinds.sh 
+cd rofi-hyprland-keybinds-cheatsheet/
+cd Downloads/rofi-hyprland-keybinds-cheatsheet/
+cwt
+cwd
+pwd
+pwd | wl-copy
+ls
+./rofi_keybinds.sh
+cd ../../.config/
+ls
+cp starship.toml dotfiles/starship
+ls dotfiles/
+ls dotfiles/*
+ls dotfiles/*/
+ls dotfiles/*/*
+cd dotfiles/
+ls
+mkdir starship
+mv starship starship.toml
+mkdir starship
+mv starship.toml starship
+ls
+cd ..
+cp hyprland dotfiles
+cp hypr dotfiles
+cp -r hypr dotfiles
+ls
