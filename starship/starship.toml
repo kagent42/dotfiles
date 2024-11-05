@@ -152,6 +152,7 @@ symbol = " "
 symbol = " "
 
 [git_branch]
+format = '[$symbol$branch(:$remote_branch)]($style) '
 symbol = " "
 
 [git_commit]
@@ -164,6 +165,7 @@ symbol = " "
 symbol = " "
 
 [haskell]
+format = '[$symbol($version )]($style)'
 symbol = " "
 
 [haxe]
