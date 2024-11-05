@@ -1,25 +1,15 @@
 return {
-    {
-        "hrsh7th/nvim-cmp",
-    },
-    { 
-        "neovim/nvim-lspconfig"
-    },
-    {
-        "williamboman/mason-lspconfig.nvim" 
-    },
-    {
-        "williamboman/mason.nvim" 
-    },
-    {
-        "christoomey/vim-tmux-navigator",
-        lazy = false,
-        cmd = {
-            "TmuxNavigateLeft",
-            "TmuxNavigateDown",
-            "TmuxNavigateUp",
-            "TmuxNavigateRight",
-            "TmuxNavigatePrevious",
+    { "hrsh7th/nvim-cmp" },
+    { "neovim/nvim-lspconfig" },
+    { "williamboman/mason-lspconfig.nvim" },
+    { "williamboman/mason.nvim" },
+    { "christoomey/vim-tmux-navigator",
+      lazy = false,
+      cmd = {   "TmuxNavigateLeft",
+                "TmuxNavigateDown",
+                "TmuxNavigateUp",
+                "TmuxNavigateRight",
+                "TmuxNavigatePrevious", 
         },
         keys = {
             { "<c-h>", "<cmd><C-U>TmuxNavigateLeft<cr>" },
