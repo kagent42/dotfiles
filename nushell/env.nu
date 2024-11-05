@@ -108,6 +108,7 @@ path add /home/kagent/.local/bin/
 $env.EDITOR = "nvim"
 $env.VISUAL = "nvim"
 $env.GHCUP_USE_XDG_DIRS = 'deeznutz'
+$env.NV_CONF = "/home/kagent/.config/nvim"
 # Enable carapace command line completions
 $env.CARAPACE_BRIDGES = 'zsh,fish,bash,inshellisense' # optional
 mkdir ~/.cache/carapace
