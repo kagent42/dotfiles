@@ -11,6 +11,7 @@ return {
           indent = { enable = true },  
         })
     end,
+    lazy = false,
     dependencies = {
         -- NOTE: additional parser
         { "nushell/tree-sitter-nu", build = ":TSUpdate nu" },
