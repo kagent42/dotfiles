@@ -187,6 +187,7 @@ symbol = " "
 symbol = " "
 
 [lua]
+format = '[$symbol($version )]($style)'
 symbol = " "
 
 [memory_usage]
