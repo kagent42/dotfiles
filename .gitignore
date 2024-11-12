@@ -4,6 +4,8 @@ tmux/plugins
 nvim/.git/
 nvim/lazy-lock.json
 nvim/lazy-lock.json
+nvim.new/lazylock.json
+nvim.astro/lazylock.json
 tmux/plugins/*
 tmux/tmux/plugins/catppuccin-tmux
 tmux/tmux/plugins/tmux
