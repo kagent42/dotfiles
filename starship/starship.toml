@@ -108,6 +108,9 @@ disabled = true
 success_symbol = "[🗸](bold green)"
 error_symbol = "[✗](bold red)"
 
+[cmd_duration]
+format = '[$duration]($style) '
+
 [time]
 disabled = false
 format = '[\[$time\]](orange)'
