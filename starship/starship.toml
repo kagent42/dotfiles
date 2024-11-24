@@ -97,7 +97,7 @@ $status\
 add_newline = false
 
 [shell]
-style = 'white bold'
+style = 'yellow bold'
 format = '[$indicator]($style):'
 disabled = false
 
