@@ -20,3 +20,11 @@ require "polish"
 
 -- User Config
 vim.cmd.colorscheme "catppuccin-mocha"
+
+-- Disable astrovims usual quit hotkey because I hate it. :)
+vim.keymap.set("n", "<leader>c", "")
+vim.keymap.set("n", "<leader>C", "")
+require("which-key").add {
+  { "<leader>c", hidden = true },
+  { "<leader>C", hidden = true },
+}

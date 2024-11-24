@@ -6,5 +6,8 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
+  -- This creates duplicate lsps and is very annoying, so :(
+  -- { import = "astrocommunity.pack.haskell" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   -- import/override with your plugins folder
 }

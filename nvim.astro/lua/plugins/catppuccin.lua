@@ -7,7 +7,7 @@ return {
       highlight_overrides = {
         mocha = function(c)
           return {
-            Normal = { bg = c.mantle },
+            Normal = { bg = "#1F1F1F" },
             Comment = { fg = "#7687a0" },
             ["@tag.attribute"] = { style = {} },
           }
