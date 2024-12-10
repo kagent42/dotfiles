@@ -22,6 +22,7 @@ local M = {
             {"<leader>fs", desc = "Find strings..."},
             {"<leader>fb", desc = "Search buffers..."},
             {"<leader>fh", desc = "Search neovim docs..."},
+            {"<leader>fm", desc = "Search messages..."},
             {"<leader>f\"", desc = "Search registers..."},
 
             -- Edit...
@@ -36,7 +37,8 @@ local M = {
             {'<leader>cR', desc = "References"},
             {'<leader>ci', desc = "Implementation"},
             {'<leader>co', desc = "Symbols"},
-            {'<leader>cd', desc = "Definition"},
+            {'<leader>cd', desc = "Diagnostics"},
+            {'<leader>cD', desc = "Definition"},
 
             -- mini.files
             {"<leader>e", desc = "Explore..."},

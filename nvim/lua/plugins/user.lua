@@ -1,4 +1,11 @@
 return {
+    { 'rcarriga/nvim-notify',
+     config = function()
+            ---@diagnostic disable-next-line: missing-fields
+            require('notify').setup({ render = 'compact', stages = 'fade'})
+        vim.notify = require('notify')
+        end
+    },
     -- LSP
     { 'https://github.com/mfussenegger/nvim-dap',
         dependencies = { 'mfussenegger/nvim-dap-ui',
@@ -19,6 +26,7 @@ return {
     { 'nvim-lualine/lualine.nvim',
         dependencies = { 'nvim-tree/nvim-web-devicons' },
         config = function()
+            ---@diagnostic disable-next-line: missing-parameter
             require('lualine').setup()
         end
     },

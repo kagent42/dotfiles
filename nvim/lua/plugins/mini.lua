@@ -1,5 +1,6 @@
 local M = {
     'echasnovski/mini.nvim',
+    lazy = false,
     config = function()
         require('mini.icons').setup()
         -- require('mini.statusline').setup({
@@ -15,6 +16,7 @@ local M = {
         })
         require('mini.completion').setup()
         require('mini.files').setup()
+        -- require('mini.notify').setup()
     end
 }
 

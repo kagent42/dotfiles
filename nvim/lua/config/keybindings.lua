@@ -14,6 +14,7 @@ vim.keymap.set("n", "<leader>fs", function() require('telescope.builtin').grep_s
 vim.keymap.set("n", "<leader>fb", function() require('telescope.builtin').buffers() end, default_opts)
 vim.keymap.set("n", "<leader>f\"", function() require('telescope.builtin').registers() end, default_opts)
 vim.keymap.set("n", "<leader>fh", function() require('telescope.builtin').help_tags() end, default_opts)
+vim.keymap.set("n", "<leader>fm", function() require('telescope.builtin').notify() end, default_opts)
 vim.keymap.set("n", "<leader>En", function()
     require('telescope.builtin').find_files {
         cwd = vim.fn.stdpath("config")
@@ -40,5 +41,6 @@ vim.keymap.set('n', '<leader>cR', "<CMD>Telescope lsp_references theme=cursor<CR
 vim.keymap.set('n', '<leader>ci', "<CMD>Telescope lsp_implementations theme=cursor<CR>")
 vim.keymap.set('n', '<leader>co', "<CMD>Telescope lsp_document_symbols theme=cursor<CR>")
 vim.keymap.set('n', '<leader>cF', function() vim.lsp.buf.format() end)
-vim.keymap.set('n', '<leader>cd', "<CMD>Telescope lsp_definitions theme=cursor<CR>")
+vim.keymap.set('n', '<leader>cd', function() vim.diagnostic.open_float() end)
+vim.keymap.set('n', '<leader>cD', "<CMD>Telescope lsp_definitions theme=cursor<CR>")
 vim.keymap.set('i', '<C-s>', function() vim.lsp.buf.signature_help() end)
