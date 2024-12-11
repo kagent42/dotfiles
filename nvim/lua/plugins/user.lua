@@ -1,12 +1,5 @@
 return {
-    { 'rcarriga/nvim-notify',
-     config = function()
-            ---@diagnostic disable-next-line: missing-fields
-            require('notify').setup({ render = 'compact', stages = 'fade'})
-        vim.notify = require('notify')
-        end
-    },
-    -- LSP
+    -- Dev/Coding Stuff
     { 'https://github.com/mfussenegger/nvim-dap',
         dependencies = { 'mfussenegger/nvim-dap-ui',
                          'nvim-neotest/nvim-nio'},
@@ -22,12 +15,19 @@ return {
       version = '^4', -- Recommended
       lazy = false, -- This plugin is already lazy
     },
-    -- Functionality
+    -- UI & Functionality
     { 'nvim-lualine/lualine.nvim',
         dependencies = { 'nvim-tree/nvim-web-devicons' },
         config = function()
             ---@diagnostic disable-next-line: missing-parameter
             require('lualine').setup()
+        end
+    },
+    { 'rcarriga/nvim-notify',
+     config = function()
+            ---@diagnostic disable-next-line: missing-fields
+            require('notify').setup({ render = 'compact', stages = 'fade'})
+        vim.notify = require('notify')
         end
     },
     { 'romgrk/barbar.nvim',

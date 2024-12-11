@@ -20,14 +20,17 @@ local M = {
             {"<leader>f", group = "Telescope..."},
             {"<leader>ff", desc = "Find files..."},
             {"<leader>fs", desc = "Find strings..."},
-            {"<leader>fb", desc = "Search buffers..."},
-            {"<leader>fh", desc = "Search neovim docs..."},
-            {"<leader>fm", desc = "Search messages..."},
-            {"<leader>f\"", desc = "Search registers..."},
+            {"<leader>fg", desc = "Multi grep..."},
+            {"<leader>fm", desc = "Find messages..."},
+            {"<leader>fb", desc = "Find buffers..."},
+            {"<leader>fh", desc = "Find neovim docs..."},
+            {"<leader>fm", desc = "Find messages..."},
+            {"<leader>f\"", desc = "Find registers..."},
 
             -- Edit...
             {"<leader>E", desc = "Edit..."},
-            {"<leader>En", desc = "Edit config."},
+            {"<leader>En", desc = "Edit config"},
+            {"<leader>Ep", desc = "Edit plugins"},
 
             -- Lsp/code actions
             {"<leader>c", group = "Lsp/Code"},

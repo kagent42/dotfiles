@@ -11,13 +11,22 @@ vim.keymap.set("n", "<leader>bD", "<CMD>bd!<CR>")
 -- Telescope keybindings
 vim.keymap.set("n", "<leader>ff", function() require('telescope.builtin').find_files() end, default_opts)
 vim.keymap.set("n", "<leader>fs", function() require('telescope.builtin').grep_string() end, default_opts)
+vim.keymap.set('n', "<leader>fg", function() require('config.telescope.multigrep').setup() end)
 vim.keymap.set("n", "<leader>fb", function() require('telescope.builtin').buffers() end, default_opts)
 vim.keymap.set("n", "<leader>f\"", function() require('telescope.builtin').registers() end, default_opts)
 vim.keymap.set("n", "<leader>fh", function() require('telescope.builtin').help_tags() end, default_opts)
 vim.keymap.set("n", "<leader>fm", function() require('telescope.builtin').notify() end, default_opts)
+
+-- Specific paths for Telescope
 vim.keymap.set("n", "<leader>En", function()
     require('telescope.builtin').find_files {
         cwd = vim.fn.stdpath("config")
+    }
+end)
+vim.keymap.set("n", "<leader>Ep", function()
+    require('telescope.builtin').find_files {
+        ---@diagnostic disable-next-line: param-type-mismatch
+        cwd = vim.fs.joinpath(vim.fn.stdpath('data'), 'lazy')
     }
 end)
 

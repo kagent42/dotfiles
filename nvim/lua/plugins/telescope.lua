@@ -13,8 +13,12 @@ local M = {
                     registers = { theme = "dropdown" },
                     grep_string = { theme = "dropdown" },
                     help_tags = { theme = "dropdown" },
+                },
+                extensions = {
+                    fzf = {}
                 }
             })
+            require('telescope').load_extension('fzf')
         end,
     },
 }
