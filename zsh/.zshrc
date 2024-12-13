@@ -79,7 +79,9 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+## To install zsh-syntax-highlighting using OMZ, exec this command first:
+## git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+plugins=(git zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -130,8 +132,4 @@ eval "$(starship init zsh)"
 local ARROW="-> " # "%F{green}%(->)%f"
 local TERM_STRING="${PROMPT}%F{green}${ARROW}%f"
 PROMPT=$TERM_STRING
-
-# Enable zsh-syntax-highlighting
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
 
