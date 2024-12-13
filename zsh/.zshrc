@@ -112,7 +112,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias ls="lsd"
-alias nvimconfig="nvim ~/.config/nvim/"
 alias vi="nvim"
 # alias cat="bat --paging=never"
 
